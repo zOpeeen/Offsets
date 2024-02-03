@@ -30,4 +30,4 @@ PawniTeamNum=0x3BF
 PawnCameraServices=0x10E0
 PawniFovStart=0x214
 PawnfFlags=0x3C8
-PawnbSpottedByMask=0x1A48
+PawnbSpottedByMask=0x1638
