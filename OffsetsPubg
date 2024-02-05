@@ -27,6 +27,6 @@ CameraFov=0x1024
 CameraLocation=0x0A98
 CameraRotation=0x0A70
 VehicleRiderComponent=0x1FE0
-SeatIndex=0x220
+SeatIndex=0xC08
 LastSubmitTime=0x8
 LastRenderTimeOnScreen=0x758
