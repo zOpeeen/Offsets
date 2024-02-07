@@ -1,8 +1,8 @@
-dwEntityList = 0x18AFFB8
-dwViewMatrix = 0x190F2A0
-dwViewAngles = 0x191D0D0
-dwLocalPlayerController = 0x18FF918
-dwLocalPlayerPawn = 0x17252B8
+dwEntityList=0x18AFFB8
+dwViewMatrix=0x190F2A0
+dwViewAngles=0x191D0D0
+dwLocalPlayerController=0x18FF918
+dwLocalPlayerPawn=0x17252B8
 dwForceJump=0x171E640
 EntityHealth=0x334
 EntityTeamID=0x3CB
