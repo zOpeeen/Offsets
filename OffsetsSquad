@@ -1,6 +1,6 @@
-UWorld=0x75E0E00
-GNames=0x74606C0
-GObjects=0x749D0F0
+UWorld=0x75E58C0
+GNames=0x7465180
+GObjects=0x74A1BB0
 GameInstance=0x180
 LocalPlayers=0x38
 PlayerController=0x30
