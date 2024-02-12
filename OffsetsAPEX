@@ -1,13 +1,13 @@
-EntityList=0x1db2ed8
-LocalPlayer=0x21615d8
+EntityList=0x1db4118
+LocalPlayer=0x2162818
 Name=0x449
 Team=0x30c
 VisibleTime=0x1950
 Origin=0x017c
 Bones=0xDA8
 AbsVelocity=0x170
-gamemode=0x02198ee0
-ViewRender=0x73cc460
+gamemode=0x0219a120
+ViewRender=0x73cd6e0
 ViewMatrix=0x11a350
 CameraPos=0x1e90
 BulletSpeed=0x1e5c
