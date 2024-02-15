@@ -16,4 +16,5 @@ Health=0x0318
 MaxHealth=0x0460
 Shield=0x01a0
 MaxShield=0x01a4
+m_armorType=0x4604
 isDowned=0x26c0
