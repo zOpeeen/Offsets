@@ -10,6 +10,7 @@ AbsVelocity=0x170
 gamemode=0x0219d750
 ViewRender=0x73df958
 ViewMatrix=0x11a350
+ItemID=0x1538
 CameraPos=0x1eb0
 BulletSpeed=0x2ac0
 Health=0x0318
