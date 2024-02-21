@@ -1,7 +1,7 @@
-XeDecrypt=0xA94E928
-GWorld=0xC3E9498
-GNames=0xC5F63F0
-LocalPlayer=0xC52F3C0
+XeDecrypt=0x0A94E928
+GWorld=0x0C3E9498
+GNames=0x0C5F63F0
+LocalPlayer=0x0C52F3C0
 ChunkSize=0x3FB4
 GameInstance=0x0
 LocalPlayers=0x0
