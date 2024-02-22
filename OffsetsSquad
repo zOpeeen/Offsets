@@ -1,6 +1,6 @@
-UWorld=0x75E8900‬
+UWorld=0x75E8900
 GNames=0x74681C0
-GObjects=0x74A4BF0‬
+GObjects=0x74A4BF0
 GameInstance=0x180
 LocalPlayers=0x38
 PlayerController=0x30
@@ -21,7 +21,7 @@ CameraManager=0x2c0
 CameraCache=0x1AF0
 Health=0x1DF8
 APlayerState=0x230
-GetTeamID=0x3F0
+GetTeamID=0x03F0
 PlayerPrivateName=0x308
 InventoryComponent=0x2108
 CurrentWeapon=0x0140
