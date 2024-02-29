@@ -30,4 +30,4 @@ VehicleRiderComponent=0x1FB0
 SeatIndex=0x0230
 LastSubmitTime=0x8
 LastRenderTimeOnScreen=0x073C
-NoDescript=1
+NoDescript=0
