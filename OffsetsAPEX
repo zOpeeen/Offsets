@@ -19,3 +19,5 @@ Shield=0x01a0
 MaxShield=0x01a4
 ArmorType=0x4604
 isDowned=0x26c0
+m_Inventory=0x18a8
+WepNameIndex=0x1758
