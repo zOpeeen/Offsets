@@ -5,6 +5,7 @@ ProjectionD1=0xD0
 ProjectionD2=0xDC
 ViewTranslation=0x2C
 SizeOf=0x8
+ItensQuality=0x194
 Inventory=0x678
 EntityInHands=0x1B0
 StringValue=0x10
