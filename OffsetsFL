@@ -27,5 +27,5 @@ ATeamID=0x250
 PlayerController=0x30
 LocalPawn=0x2d0
 CachedCurrentWeapon=0x1ee8
-CameraManager=0x2d8
-CameraCache=0x1c70
+CameraManager=0x2e8
+CameraCache=0x1c80
