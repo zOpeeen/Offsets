@@ -1,10 +1,10 @@
 XeDecrypt=0x10ECC128
 GWorld=0x129FF408
 GNames=0x12C77620
-LocalPlayer=0x0
+LocalPlayer=0x12B7D5E0
 ChunkSize=0x40DC
-GameInstance=0x160
-LocalPlayers=0xF0
+GameInstance=0x0
+LocalPlayers=0x0
 ActorsArray=0xA0
 ComponentToWorld=0x270
 BoneArray=0xAB0
