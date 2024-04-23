@@ -1,5 +1,5 @@
-UWorld=0x7443708
-GNames=0x72D0640
+UWorld=0x7447708
+GNames=0x72D4640
 GObject=0x73005A0
 bIsDeathVerge=0xec4
 Health=0x5f8
@@ -27,5 +27,5 @@ ATeamID=0x250
 PlayerController=0x30
 LocalPawn=0x2d0
 CachedCurrentWeapon=0x1ee8
-CameraManager=0x2e8
-CameraCache=0x1c80
+CameraManager=0x2E0
+CameraCache=0x1D10
