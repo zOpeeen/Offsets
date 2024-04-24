@@ -29,3 +29,4 @@ LocalPawn=0x2c8
 CachedCurrentWeapon=0x1ee8
 CameraManager=0x2E0
 CameraCache=0x1D10
+SolarPlayerID=0x03D8
