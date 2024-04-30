@@ -1,7 +1,7 @@
 XeDecrypt=0x0FAC3828
 GWorld=0x11437378
 GNames=0x116A02C8
-LocalPlayer=0
+LocalPlayer=0x115B5F20
 ChunkSize=0x41F4
 GameInstance=0
 LocalPlayers=0
@@ -13,7 +13,7 @@ XorKey1=0x5FB7D18F
 XorKey2=0x388ECDA9
 ShiftValue=0x0005
 ObjectID=0x0018
-CurrentLevel=0
+CurrentLevel=0x0150
 SpectatedCount=0x2578
 PlayerController=0x0038
 PlayerCameraManager=0x04D0
