@@ -1,4 +1,5 @@
 gameManager=0x17FFD28
+EFT_Profile=0x5B8
 list_ptr=0xF0
 list_size=0x18
 base_ptr=0x10
