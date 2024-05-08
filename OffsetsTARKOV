@@ -1,1 +1,7 @@
-
+gameManager=0x17FFD28
+list_ptr=0xF0
+list_size=0x18
+base_ptr=0x10
+p_LocalPlayer=0x148
+ProceduralWeaponAnimationMask=0x1C0
+Recoil=0x138
