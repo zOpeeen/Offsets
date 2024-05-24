@@ -28,4 +28,4 @@ m_iIDEntIndex=0x13A8
 m_pCameraServices=0x1130
 m_iFOVStart=0x214
 m_fFlags=0x3CC
-m_entitySpottedState=0x1698
+m_entitySpottedState=0x2278
