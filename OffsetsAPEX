@@ -22,4 +22,4 @@ isDowned=0x26e0
 m_Inventory=0x18c8
 WepNameIndex=0x1564
 Glow_Enabled=0x28C
-Glow_Glow_Through_Walls=0x26c
+GThrough_Walls=0x26c
