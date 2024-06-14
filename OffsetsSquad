@@ -27,5 +27,5 @@ InventoryComponent=0x2108
 CurrentWeapon=0x0140
 bAimingDownSights=0x06FC
 CurrentFOV=0x07D0
-ZoomedFOV=0x07D0
+ZoomedFOV=0x07E4
 bWasInVehicle=0x05E0
