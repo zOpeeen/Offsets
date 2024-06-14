@@ -15,6 +15,7 @@ ActorId=0x18
 PlayerState=0x2B0
 APlayerState=0x298
 ComponentToWorld=0x240
+RelativeLocation=0x128
 LastSubmitTime=0x31C
 LastRenderTime=0x324
 CameraManager=0x348
