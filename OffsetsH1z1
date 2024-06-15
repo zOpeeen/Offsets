@@ -4,4 +4,5 @@ actor=0x780
 actorPawn=0x748
 actorType=0x3F8
 actorID=270
-health=0x3DC8
+health_base=0x3DC8
+health=0xB0
