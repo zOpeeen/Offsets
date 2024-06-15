@@ -3,3 +3,4 @@ actorCount=0x50
 actor=0x780
 actorPawn=0x748
 actorType=0x3F8
+actorID=270
