@@ -8,3 +8,4 @@ actorID=270
 health_base=0x3DC8
 health=0xB0
 RelativeLocation=0x300
+FeetPosition=0x3A8
