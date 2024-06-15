@@ -6,3 +6,4 @@ actorType=0x3F8
 actorID=270
 health_base=0x3DC8
 health=0xB0
+relativePosition=0x300
