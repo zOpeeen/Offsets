@@ -1,6 +1,7 @@
 gameManager=0x476D290
 actorCount=0x50
 actor=0x780
+localPawn=0x58
 actorPawn=0x748
 actorType=0x3F8
 actorID=270
