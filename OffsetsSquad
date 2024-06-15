@@ -29,3 +29,4 @@ bAimingDownSights=0x06FC
 CurrentFOV=0x07D0
 ZoomedFOV=0x07E4
 bWasInVehicle=0x05E0
+bShot=0x03E4
