@@ -24,6 +24,7 @@ RelativeLocation=0x11C
 ActorMesh=0x280
 PlayerState=0x240
 APlayerState=0x228
+isAlive=0x778
 RepPlayerInfo=0x4B0
 PlayerController=0x30
 LocalPawn=0x2A0
