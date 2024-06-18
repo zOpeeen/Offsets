@@ -15,4 +15,5 @@ skeletonSent=0x250
 skeletonInfo=0x50
 boneInfo=0x28
 vehiclePosition=0x9D0
+itemPosition=0x18C0
 entityHeadPosition=0x210
