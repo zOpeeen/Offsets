@@ -14,4 +14,5 @@ skeletonActor=0x5C0
 skeletonSent=0x250
 skeletonInfo=0x50
 boneInfo=0x28
+vehiclePosition=0x9D0
 entityHeadPosition=0x210
