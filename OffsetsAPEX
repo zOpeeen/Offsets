@@ -18,5 +18,5 @@ m_armorType=0x1668
 m_bleedoutState=0x2770
 m_inventory=0x18d8
 m_weaponNameIndex=0x1788
-Glow_Enabled=0x28C
+Glow_Enabled=0x29C
 GThrough_Walls=0x26c
