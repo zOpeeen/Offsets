@@ -1,5 +1,5 @@
-dwEntityList=0x19BDE58
-dwViewMatrix=0x1A1FDB0
+dwEntityList=0x19BDD78
+dwViewMatrix=0x1A1FCD0
 dwViewAngles=0x1A2D248
 dwLocalPlayerController=0x1A0D9A8
 dwLocalPlayerPawn=0x1823A08
