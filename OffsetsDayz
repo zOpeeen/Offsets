@@ -12,6 +12,7 @@ EntityInHands=0x1B0
 StringValue=0x10
 NearEntityTable=0xF48
 FarEntityTable=0x1090
+SlowEntityTable=0x2010
 NetworkID=0x70C
 ViewRight=0x8
 ViewUp=0x14
