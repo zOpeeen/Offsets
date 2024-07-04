@@ -1,5 +1,6 @@
-GNames=0x43945C0
-UWorld=0x4501480
+UWorld=0x450D700
+GNames=0x43CC830
+GObject=0x43A0840
 GetVisible=0x244
 bIsDeathVerge=0xf94
 GetSpectator=0x598
