@@ -1,6 +1,6 @@
 World=0x416AC60
 CameraBase=0x1B8
-Camera_ON=0x2960
+LocalPlayer=0x2960
 ViewportSize=0x58
 ProjectionD1=0xD0
 ProjectionD2=0xDC
