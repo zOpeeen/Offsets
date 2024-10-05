@@ -1,8 +1,8 @@
-dwEntityList=0x19BAC58
-dwViewMatrix=0x1A1CD70
-dwViewAngles=0x1A26BE0
-dwLocalPlayerController=0x1A0A5F8
-dwLocalPlayerPawn=0x18220C8
+dwEntityList=0x19BBCC8
+dwViewMatrix=0x1A1DDE0
+dwViewAngles=0x1A27C50
+dwLocalPlayerController=0x1A0B668
+dwLocalPlayerPawn=0x1823128
 dwForceJump=0x1730530
 m_iHealth=0x344
 m_iTeamNum=0x3E3
