@@ -1,6 +1,6 @@
 dwEntityList=0x19D0A38
 dwViewMatrix=0x1A32DB0
-dwViewAngles=0x1A3BBB0
+dwViewAngles=0x1A3CC40
 dwLocalPlayerController=0x1A20970
 dwLocalPlayerPawn=0x1835BB8
 dwForceJump=0x1730530
